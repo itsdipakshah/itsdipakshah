@@ -15,7 +15,7 @@
 - 🌱 I’m learning **JavaScript, APIs & Full-Stack Development**
 - 👯 I’m looking to collaborate on **Frontend Open-Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 Reach me at: [dipakshah3321@gmail.com]
+- 📫 Reach me at: [contactdipak.in@gmail.com]
 
 ---
 
