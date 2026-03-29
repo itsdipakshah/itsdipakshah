@@ -1,11 +1,11 @@
 
-# Hey, Nice to see you<br> I'm Dipak Shah 👋<br> <br>⚡ Full-Stack Developer | MERN Stack Developer | Figma Designer | Freelancer
+# Hey, Nice to see you<br> I'm Dipak Shah 👋<br> Full-Stack Developer | MERN Developer | Figma Designer | Freelancer 
 
 🚀Know about me:
 
-🔭 I’m currently working on [onSite-Clients], an educational platform for students<br>
+🔭 I’m currently working on onSite-Clients, an educational platform for students<br>
 🌱 I’m currently refining my skills in System Design and AWS Cloud Deployment<br>
-👯 I’m looking to collaborate on [Open Source MERN projects]<br>
+👯 I’m looking to collaborate on Open Source MERN projects<br>
 💬 Ask me about React optimization, JWT Auth, or MongoDB Schema Design<br>
 🎯 Goal: Transitioning into a full-time MERN role by mid-2026<br>
 📧 Connect with me: dipakofficial43@gmail.com<br><br>
