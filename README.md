@@ -3,12 +3,12 @@
 
 🚀Know about me:
 
-🔭 I’m currently working on onSite-Clients, an educational platform for students
-🌱 I’m currently refining my skills in System Design and AWS Cloud Deployment
-👯 I’m looking to collaborate on Open Source MERN projects
-💬 Ask me about React optimization, JWT Auth, or MongoDB Schema Design
-🎯 Goal: Transitioning into a full-time MERN role by mid-2026
-📧 Connect with me: dipakofficial43@gmail.com
+🔭 I’m currently working on [onSite-Clients], an educational platform for students<br>
+🌱 I’m currently refining my skills in System Design and AWS Cloud Deployment<br>
+👯 I’m looking to collaborate on [Open Source MERN projects]<br>
+💬 Ask me about React optimization, JWT Auth, or MongoDB Schema Design<br>
+🎯 Goal: Transitioning into a full-time MERN role by mid-2026<br>
+📧 Connect with me: dipakofficial43@gmail.com<br><br>
 
 
  🌐 Where to find me:<br><br>
