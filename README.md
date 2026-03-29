@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Hi there, I'm [Dipak Shah] 👋<br>### ⚡ Full-Stack Developer | MERN Stack Developer | UI/UX Enthusiast<br><br>### 🚀 About Me<br><br>- 🔭 I’m currently working on **onSite-Clients**, an educational platform for students.<br>- 🌱 I’m currently refining my skills in **System Design** and **AWS Cloud Deployment**.<br>- 👯 I’m looking to collaborate on **Open Source MERN projects**.<br>- 💬 Ask me about **React optimization, JWT Auth, or MongoDB Schema Design**.<br>- 🎯 Goal: Transitioning into a full-time MERN role by mid-2026.<br>-  💬connect with me [dipakofficial43@gmail.com]<br><br>---
 
 
