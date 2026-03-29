@@ -1,5 +1,5 @@
 
-# Hey, Nice to see you<br> I'm Dipak Shah 👋<br> Full-Stack Developer | MERN Developer | Figma Designer | Freelancer 
+# Hey, Nice to see you<br> I'm Dipak Shah 👋<br><br> Full-Stack Developer | MERN Developer | Freelancer 
 
 🚀Know about me:
 
