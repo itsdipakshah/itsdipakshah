@@ -38,7 +38,8 @@
 
 ###
 
-<p align="left">🚀Know about me:<br><br>🔭 Building onSite-Clients — an educational platform for students<br>🌱 Enhancing expertise in System Design & AWS Cloud Deployment<br>🤝 Open to collaborating on Open Source MERN projects<br>💬 Ask me about React Optimization, JWT Authentication, and MongoDB Schema Design<br>🎯 Goal: Land a full-time MERN Developer role by mid-2026</p>
+<p align="left">
+  **🚀Know about me:**<br><br>🔭 Building onSite-Clients — an educational platform for students<br>🌱 Enhancing expertise in System Design & AWS Cloud Deployment<br>🤝 Open to collaborating on Open Source MERN projects<br>💬 Ask me about React Optimization, JWT Authentication, and MongoDB Schema Design<br>🎯 Goal: Land a full-time MERN Developer role by mid-2026</p>
 
 ###
 
